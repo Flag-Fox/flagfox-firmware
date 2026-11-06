@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-06T02:42:34Z",
+  "updated": "2026-11-06T03:18:54Z",
   "base": {
     "project": "flagwatch_base_devkit",
     "version": "0.5.5-msg",
@@ -8,6 +8,14 @@
     "file": "flagwatch_base_devkit.bin",
     "size": 921600,
     "sha256": "43b32ffa7acfe2732e928458704dd3a16c8d9d79f6719fec65a45753b7a0d6a7"
+  },
+  "base_rev2": {
+    "project": "flagfox_base_rev2",
+    "version": "0.5.5-msg",
+    "elf_id": "ebd1bcd6206a2156",
+    "file": "flagfox_base_rev2.bin",
+    "size": 987136,
+    "sha256": "1e5611c933ed625ee8a3f52b4015802a7b2f3fede086455298f1ff107eab6412"
   },
   "sensor": {
     "project": "flagwatch_rev1",
